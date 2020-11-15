@@ -1,9 +1,5 @@
 Scanning with Nmap
 
-Author: Javier Gallego Díaz
-NIA: 100360271
-Group: 17
-
 @usage
 -- nmap -p 443 --script untrustedTLScerts --script-args "list = /root/Documents/list.csv, date = 2021-11-10" 10.0.3.158
 
